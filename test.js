@@ -1,1 +1,4 @@
-<script>alert(1);</script>
+function teste {
+	alert(1);
+}
+
